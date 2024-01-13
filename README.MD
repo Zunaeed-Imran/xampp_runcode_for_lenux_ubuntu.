@@ -9,5 +9,7 @@
 - Xampp server start command in Ubuntu every single time after turn on the computer
 - `sudo /opt/lampp/lampp start`
 ##### Some resource for this Problem (xampp server)
+- All link provided by julius Brother.
 - [1st Youtube link](https://youtu.be/yVL9UbHN_Z0?si=E3PWD9Ht1d4_BMgN)
 - [2nd Youtube link](https://youtu.be/5LNSJYi6ITs?si=4V33rEc2RM3aGEvE)
+- [Stack overflow link](https://stackoverflow.com/questions/60678203/is-it-possible-to-use-live-server-for-php-with-autoreload-on-save)
