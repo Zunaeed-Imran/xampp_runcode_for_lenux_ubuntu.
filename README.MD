@@ -13,6 +13,9 @@
 - `sudo /opt/lampp/lampp start`
 - Xampp server stop command
 - `sudo /opt/lampp/lampp stop`
+- when apache running SQl database not work so we have to stop apache2 than it
+  will work.
+- `sudo service apache2 stop`
 
 ##### Some resource for this Problem (xampp server)
 
