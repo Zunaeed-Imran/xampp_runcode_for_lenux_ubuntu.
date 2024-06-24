@@ -1,4 +1,4 @@
-## Ubustu xampp server run problem fixing.
+## Ubuntu xampp server run problem fixing.
 
 - Modify ACL permissions for htdocs folder for daemon user, when using PHP and
   using xampp we are gonna need taht.
