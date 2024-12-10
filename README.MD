@@ -16,6 +16,9 @@
 - when apache running SQl database not work so we have to stop apache2 than it
   will work.
 - `sudo service apache2 stop`
+- another problem in laravel using xampp (Install mbstring Extension (if not installed))
+- `sudo apt-get install php-mbstring`
+- `sudo service apache2 restart`   # or restart your PHP service
 
 ##### Some resource for this Problem (xampp server)
 
