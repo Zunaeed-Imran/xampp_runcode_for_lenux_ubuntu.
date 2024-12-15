@@ -20,6 +20,13 @@
 - `sudo apt-get install php-mbstring`
 - `sudo service apache2 restart`   # or restart your PHP service
 
+### PHP Update in Ubuntu PC in Terminal.
+- `sudo apt update && sudo apt upgrade -y`
+- `sudo apt install software-properties-common -y`
+- `sudo apt update
+sudo apt install php8.3`
+
+
 ##### Some resource for this Problem (xampp server)
 
 - All link provided by julius Brother.
