@@ -27,6 +27,7 @@
 sudo apt install php8.3`
 
 ### Composer Update in Ubuntu Pc in Terminal.
+- but first need to stop xampp server.
 - `composer --version`
 - `composer self-update`
 - `composer self-update --stable`
